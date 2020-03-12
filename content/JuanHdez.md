@@ -56,3 +56,7 @@ Linkedin: https://www.linkedin.com/in/juan-f-hernandez-jose-a626501a3
 + Started watching this bioinformatics introductory videos.
 + Watching tutorials to learn R coding lenguage and also Roberto is teaching me the basics.
 + Starting to get curious about how to use machine learning in bioinformatics. (random forest and cross validation)
+
+### Week March 3/2020
++ Prepared Investigation poster to present it on saturday 7, 2020
++ Created the chart for the LASSO vs Autoencoder
